@@ -1,0 +1,1 @@
+POST    /index/:id              controllers.DiffToElasticsearch.index(id: String)
