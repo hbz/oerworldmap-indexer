@@ -1,4 +1,4 @@
-name := "oerworldmap-indexer"
+name := "oerworldmapindexer"
 
 version := "0.1"
 
